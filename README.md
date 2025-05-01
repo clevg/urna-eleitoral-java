@@ -21,15 +21,6 @@ O usuário pode:
 ======================================
 🏗️ Estrutura do Projeto
 
-urna-eleitoral-java/
-├── src/
-│   └── eleicao/
-│       ├── Candidato.java
-│       ├── Prefeito.java
-│       ├── Vereador.java
-│       └── Eleicao.java
-├── README.md
-
 - As classes Prefeito e Vereador estendem a classe Candidato
 - A classe Eleicao contém o método main e gerencia o fluxo do programa
 
