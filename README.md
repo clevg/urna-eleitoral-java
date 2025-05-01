@@ -6,10 +6,13 @@ Este projeto simula uma eleição simples para Prefeito e Vereador, desenvolvido
 O usuário pode:
 
 ✅ Cadastrar candidatos
+
 ✅ Votar em candidatos
+
 ✅ Ver o resultado dos mais votados
 
-======================================
+=====================================
+
 🎯 Funcionalidades
 
 - Cadastro de candidatos para Prefeito e Vereador
@@ -18,37 +21,22 @@ O usuário pode:
 - Exibição dos candidatos mais votados em cada cargo
 - Ordenação dos resultados pelo número de votos
 
-======================================
+=====================================
+
 🏗️ Estrutura do Projeto
 
 - As classes Prefeito e Vereador estendem a classe Candidato
 - A classe Eleicao contém o método main e gerencia o fluxo do programa
 
-======================================
-💻 Como Executar
+=====================================
 
-1. Clone o repositório:
-
-git clone https://github.com/seu-usuario/urna-eleitoral-java.git
-
-2. Compile os arquivos:
-
-cd src
-javac eleicao/*.java
-
-3. Execute o programa:
-
-java eleicao.Eleicao
-
-✅ O programa abrirá janelas do JOptionPane para interação com o usuário.
-
-======================================
 🧰 Requisitos
 
 - Java JDK 8 ou superior
 - Qualquer IDE Java (opcional): IntelliJ, Eclipse, NetBeans ou similar
 
-======================================
+=====================================
+
 🔮 Possíveis Melhorias Futuras
 
 - Implementar autenticação de usuários (senha para abrir o sistema de votação)
@@ -61,4 +49,5 @@ java eleicao.Eleicao
 - Permitir importar candidatos a partir de um arquivo externo
 - Adicionar opção de votos em branco ou nulo
 - Criar suporte para múltiplas eleições ou rodadas (1º e 2º turno)
+
 
