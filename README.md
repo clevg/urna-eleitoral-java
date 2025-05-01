@@ -61,3 +61,4 @@ java eleicao.Eleicao
 - Permitir importar candidatos a partir de um arquivo externo
 - Adicionar opção de votos em branco ou nulo
 - Criar suporte para múltiplas eleições ou rodadas (1º e 2º turno)
+
